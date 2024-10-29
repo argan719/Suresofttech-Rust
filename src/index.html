@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Translate SILS to HILS</title>
+    <script type="module" src="/main.js" defer></script>
+  </head>
+
+  <body>
+    <div class="container">
+      <h1>Welcome to Sure!</h1>
+
+      <div class="row">
+        <a href="https://www.suresofttech.com/" target="_blank">
+          <img src="/assets/Suresoft-Logo.svg" class="logo tauri" alt="Tauri logo" />
+        </a>
+      </div>
+
+      <p>Click on the Tauri logo to learn more about the framework</p>
+
+      <div class="file-row">
+        <button id="excel-file" type="button">Open Excel File</button> <!-- submit에서 button으로 변경 -->
+        <div class="space"></div>
+        <p id="excel-status"></p>
+      </div>
+
+      <div class="file-row">
+        <button id="cs-file" type="button">Open C# File</button> <!-- submit에서 button으로 변경 -->
+        <div class="space"></div>
+        <p id="cs-status"></p>
+      </div>
+
+      <div class="file-row">
+        <button id="convert-word" type="button">Convert C# File</button>
+        <div class="space_typ1"></div>
+        <button id="sorting-TCNum" type="button">Sorting TC Number</button>
+      </div>
+      
+      <p id="status"></p>
+    </div>
+  </body>
+</html>
