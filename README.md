@@ -5,6 +5,6 @@
 
 ## 문자열 정렬 기능 구현
 
-정렬하고자 하는 TC C# 파일을 입력하면 TC의 숫자가 정렬된다.
+정렬하고자 하는 TC C# 파일을 입력하면 TC의 숫자가 정렬된다. (TestCase명_000)
 
 ![image](https://github.com/user-attachments/assets/8a359080-2435-4268-9dd4-8ea4f398438f)
