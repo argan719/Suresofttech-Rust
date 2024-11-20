@@ -1,7 +1,10 @@
-# Tauri + Vanilla
+## 문자열 대치 기능 구현
 
-This template should help get you started developing with Tauri in vanilla HTML, CSS and Javascript.
+매핑 정보가 담긴 엑셀 파일과 변환하고자 하는 TC C# 파일을 입력하면 해당되는 문자열이 전부 대치된다.
 
-## Recommended IDE Setup
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+## 문자열 정렬 기능 구현
+
+정렬하고자 하는 TC C# 파일을 입력하면 TC의 숫자가 정렬된다.
+
+![image](https://github.com/user-attachments/assets/8a359080-2435-4268-9dd4-8ea4f398438f)
